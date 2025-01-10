@@ -92,7 +92,7 @@ def add_ftl(Model):
 
 	r1 = Reaction("Ftl")
 	r1.name = "formate thf ligase"
-	r1.subsystem = "growth methylo"
+	r1.subsystem = "Formate assimilation"
 	r1.lower_bound = 0.  # This is the default
 	r1.upper_bound = 1000. # This is the default
 	r1.add_metabolites({ model.metabolites.get_by_id("for_c"): -1.0,
@@ -104,7 +104,7 @@ def add_ftl(Model):
 	
 	r2 = Reaction("Fch")
 	r2.name = "methenyl-thf cyclohydrolase"
-	r2.subsystem = "growth methylo"
+	r2.subsystem = "Formate assimilation"
 	r2.lower_bound = 0.  # This is the default
 	r2.upper_bound = 1000. # This is the default
 	r2.add_metabolites({ model.metabolites.get_by_id("10fthf_c"): -1.0,
