@@ -8,7 +8,14 @@ The repository includes the Genome-scale metabolic model of _C. necator_,  RehMB
 
 
 
+
+
+
+
 Note: More information on their finetuned GAM parameter can be found between lines 101 and 104 of the script called ‘run_simulations.py’ within the reported Gitlab repository (https://github.com/m-jahn/genome-scale-models/blob/master/Ralstonia_eutropha/).
+
+
+
 
 
 <sup>1</sup>Jahn, M. et al. Protein allocation and utilization in the versatile chemolithoautotroph Cupriavidus necator. eLife 10, 1–39 (2021).
