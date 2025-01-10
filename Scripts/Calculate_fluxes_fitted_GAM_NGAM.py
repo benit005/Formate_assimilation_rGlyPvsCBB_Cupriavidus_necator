@@ -35,9 +35,7 @@ import statistics as stats
 from statistics import stdev
 import optlang
 import cobra.util.solver as sutil
-import matplotlib.pyplot as plt
-from openpyxl import load_workbook
-import statistics
+
 
 def add_new_biomass(model,x):
 	"""
