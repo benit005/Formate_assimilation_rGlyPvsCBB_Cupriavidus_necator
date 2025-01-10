@@ -1,6 +1,6 @@
 # Engineered synthetic one-carbon fixation exceeds yield of the Calvin Cycle
 
-The repository contained the model, code and results implemented and obtained in the publication 'Engineered synthetic one-carbon fixation exceeds yield of the Calvin Cycle' (Beau et al. 2025). 
+This repository contains the Data, Code and Results indicated in the publication 'Engineered synthetic one-carbon fixation exceeds yield of the Calvin Cycle' (Beau et al. 2025). 
 
 In this publication, we compare the biomass yield reached in the assimilation of formate via the CBB compared to the assimilation of formate via the rGlyP in cupiavidus necator. 
 
