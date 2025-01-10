@@ -4,7 +4,7 @@ This repository contains the Data, Code and Results indicated in the publication
 
 In this publication, we compare the biomass yield reached in the assimilation of formate via the CBB compared to the assimilation of formate via the rGlyP in _Cupiavidus necator_. 
 
-The repository includes the Genome-scale metabolic model of _C. necator_,  RehMBEL1391_sbml_L3V1, adapted from Jahn et al.<sup>1</sup>; the code to calculate the biomass yield and fluxes at each condition, and the corresponding results.
+The repository includes the Genome-scale metabolic model of _C. necator_,  RehMBEL1391_sbml_L3V1, from Jahn et al.<sup>1</sup>; the code to calculate the biomass yield and fluxes at each condition, and the corresponding results.
 
 
 
